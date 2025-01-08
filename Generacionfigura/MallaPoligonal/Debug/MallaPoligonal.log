@@ -1,0 +1,8 @@
+﻿  Main.cpp
+E:\Users\Alexander\Alex\source\repos\Generacionfigura\MallaPoligonal\Main.cpp(110,4): warning C4551: la llamada a la función no tiene lista de argumentos
+Source.obj : error LNK2005: ya se definió "void __cdecl dibujarcara(void)" (?dibujarcara@@YAXXZ) en Main.obj
+Source.obj : error LNK2005: ya se definió "float (* vertice)[3]" (?vertice@@3PAY02MA) en Main.obj
+Source.obj : error LNK2005: ya se definió "int (* caras)[4]" (?caras@@3PAY03HA) en Main.obj
+Source.obj : error LNK2005: ya se definió "int (* arista)[2]" (?arista@@3PAY01HA) en Main.obj
+Source.obj : error LNK2005: ya se definió "float (* colores)[3]" (?colores@@3PAY02MA) en Main.obj
+E:\Users\Alexander\Alex\source\repos\Generacionfigura\Debug\MallaPoligonal.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
