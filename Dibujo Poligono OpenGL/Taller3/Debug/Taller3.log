@@ -1,0 +1,8 @@
+﻿  Source (1).cpp
+c1xx : fatal  error C1083: No se puede abrir el archivo origen: '..\..\..\..\Desktop\UNI\Computacion Grafica\taller3\Source (1).cpp': No such file or directory
+  Source.cpp
+  Tarea3.cpp
+E:\Users\Alexander\Alex\source\repos\Taller3\Taller3\Tarea3.cpp(1,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+E:\Users\Alexander\Alex\source\repos\Taller3\Taller3\Tarea3.cpp(217,5): error C2084: la función 'int main(int,char **)' ya tiene un cuerpo
+E:\Users\Alexander\Alex\source\repos\Taller3\Taller3\Tarea3.cpp(138,5): message : vea la definición anterior de 'main'
+  Generando código...
